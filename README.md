@@ -1,4 +1,4 @@
-# Robust Machine Learning
+# Robust Machine Learning - Adversarial Robustness
 
 This is a research project (UT Austin) advised by Dr. Constantine Caramanis on Robustness against Adversarial Attacks on Tree-Based Machine Learning algorithms. This code is an implementation of ideas presented in the following research paper.
 
