@@ -6,4 +6,4 @@ Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers - http
 
 Work:
 - Used Shapley values to inject watermarks in high‐density samples, creating a poisoning attack with a misclassification rate of 10.7%
-· Leveraged isolation forests to identify watermarked samples and defend against the attack, reducing the misclassification rate to 0.1%
+- Leveraged isolation forests to identify watermarked samples and defend against the attack, reducing the misclassification rate to 0.1%
